@@ -1,0 +1,21 @@
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\bin\Debug\Sadie.exe
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\bin\Debug\Sadie.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Form1.resources
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Properties.Resources.resources
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.csproj.GenerateResource.Cache
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.exe
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.AboutBox1.resources
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Configuration.resources
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.exe
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.pdb
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\bin\Debug\Sadie.exe
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\bin\Debug\Sadie.pdb
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.AboutBox1.resources
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Configuration.resources
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Form1.resources
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Properties.Resources.resources
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.csproj.GenerateResource.Cache
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\Sadie\Sadie\obj\Debug\Sadie.Search.resources
